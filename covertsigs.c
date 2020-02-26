@@ -1,6 +1,3 @@
-//CMPUT 379 Assignment 1;
-//Xianda XU  ; Shixiong Gao
-//1501976    ; 1491592
 # define _GNU_SOURCE
 # include <signal.h>
 # include <stdlib.h>
